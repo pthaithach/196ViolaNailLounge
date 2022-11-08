@@ -1,0 +1,37 @@
+{
+    "data": {
+        "store"     : "Viola Nail Lounge",
+        "slug"      : "Viola-nail-lounge",
+        "phone"     : "(315) 864-3070",
+        "email"     : "bryannguyen239@hotmail.com",
+        "address"   : "4948 Commercial Dr, Yorkville, New York 13495",
+        "state"     : "New York 13495",
+        "ward"      : "Yorkville",
+        "time_1"    : "Mon - Fri: 09:00 AM - 07:00 PM",
+        "time_2"    : "Sat: 09:00 AM - 05:00 PM",
+        "time_3"    : "Sun: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/violanailloung.ny",
+        "instagram" :   "https://www.instagram.com/violanail_lounge",
+        "google"    :   "https://goo.gl/maps/QCTrnyJoj3vN62Pw6", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc4Mzl8dmlvbGE0OTQ4fE5ZXzA4MDA1fGYzYWU5ZWU3NWE1MzBhYjg1MmQ3YmU4M2VhYzVlYTQ3",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.1398028972835!2d-75.30136484855336!3d43.10157679583926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9418fedbf9dfb%3A0x2fb80afae8abb2a2!2sViola%20Nail%20Lounge!5e0!3m2!1sen!2s!4v1667891717462!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#ff847d",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
